@@ -1,0 +1,9 @@
+{
+    "name": "stats-service",
+    "version": "1.0.0",
+    "description": "Lambda function for statistics",
+    "main": "index.js",
+    "dependencies": {
+        "aws-sdk": "^2.1450.0"
+    }
+}
