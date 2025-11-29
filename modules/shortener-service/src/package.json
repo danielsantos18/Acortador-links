@@ -1,0 +1,10 @@
+{
+  "name": "shortener-service",
+  "version": "1.0.0",
+  "description": "Lambda function for URL shortening",
+  "main": "index.js",
+  "dependencies": {
+    "nanoid": "^3.3.4",
+    "aws-sdk": "^2.1450.0"
+  }
+}
